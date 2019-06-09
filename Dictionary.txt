@@ -2981,3 +2981,13 @@ zebra
 zero
 zone
 zoo
+He
+She
+Was
+Where
+Why
+he
+she
+was
+where
+why
